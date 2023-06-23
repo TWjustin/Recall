@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 220370f9aa4301044b6872f8c309bd47, type: 3}
+  m_Name: tent
+  m_EditorClassIdentifier: 
+  sentences:
+  - "\u9019\u88E1\u770B\u8D77\u4F86\u5EE2\u68C4\u4E86\u5F88\u4E45\uFF0C\u9019\u9EBC\u591A\u6771\u897F\u6C92\u5E36\u8D70\uFF0C\u4ED6\u5011\u53EF\u80FD\u9047\u5230\u751A\u9EBC\u9EBB\u7169\u5427\uFF0C\u628A\u6709\u7528\u7684\u6771\u897F\u5E36\u8D70\u5427\uFF0C\u5E0C\u671B\u4ED6\u5011\u5E73\u5B89..."
